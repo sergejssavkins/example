@@ -10,6 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine ( "abcde");
+            Console.WriteLine("qwerty");
             Console.ReadKey();
         }
     }
